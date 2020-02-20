@@ -1,4 +1,4 @@
-# EpicArtillerySounds
+# Epic Artillery Sounds
 <img src="https://raw.githubusercontent.com/Wyrrrd/EpicArtillerySounds/master/thumbnail.png" width="128" height="128">
 
 (Please note: This is a quick and dirty port to 0.18. As soon as the original is ported to 0.18, this will be removed.)
