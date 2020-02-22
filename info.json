@@ -1,10 +1,8 @@
 {
     "name": "EpicArtillerySounds",
-    "version": "0.18.0",
+    "version": "0.18.1",
     "title": "Epic Artillery Sounds",
     "author": "Wyrrrd",
-    "contact": "",
-    "homepage": "",
     "factorio_version": "0.18",
     "dependencies": ["base >= 0.18"],
     "description": "Bring the thunder to Factorio"

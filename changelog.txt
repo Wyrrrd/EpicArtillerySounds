@@ -1,10 +1,17 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.18.1
+Date: 22. 2. 2020
+  Changes:
+    - Matched changelog file format to what Factorio expects
+---------------------------------------------------------------------------------------------------
 Version: 0.18.0
 Date: 20. 2. 2020
   Changes:
     - Ported to 0.18
     - Added changelog file
-    - Added thumbnail
-    - Renamed mod
+    - Renamed mod for upload in mod portal
     - Matched versioning to Factorio versions
+
+  Graphics:
+    - Added thumbnail
 ---------------------------------------------------------------------------------------------------
