@@ -7,6 +7,7 @@ Changes the vanilla artillery sound to a far more powerful, resonant one. Bring 
 ### Compatibility
 This mod should just work, but I specifically added compatibility for the following mods:
 
++ [Bigger Artillery](https://mods.factorio.com/mod/bigger-artillery) - also added (louder) sound to turret and wagon
 + [Light Artillery](https://mods.factorio.com/mod/lightArtillery) - also added sound to turret and wagon
 
 ### Credits
