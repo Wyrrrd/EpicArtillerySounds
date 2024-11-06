@@ -14,4 +14,5 @@ data.raw.gun["artillery-wagon-cannon"].attack_parameters.sound =
 
 -- integrations
 
+require("integrations.lightArtillery.data")
 require("integrations.bigger-artillery.data")
